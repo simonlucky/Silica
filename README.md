@@ -117,7 +117,7 @@ Roadmap
 
 ## Contributing
 
-** Contributions, ideas, and bug reports are welcome! Feel free to open an issue or a pull request.
+Contributions, ideas, and bug reports are welcome! Feel free to open an issue or a pull request.
 Please read the CONTRIBUTING.md file for guidelines.
 License
 
